@@ -1,0 +1,19 @@
+# Build, binary and intermediate files
+Binaries/
+Build/
+Intermediate/
+DerivedDataCache/
+Saved/
+
+# Mac / Linux
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Unreal auto-generated
+*.vsconfig
+*.xcodeproj
+*.xcworkspace
+*.idea
